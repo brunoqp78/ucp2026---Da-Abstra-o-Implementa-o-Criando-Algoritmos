@@ -59,6 +59,7 @@ Cada exercício será trabalhado seguindo um fluxo de etapas:
 ## Ferramentas
 
 - **[OnlineGDB](https://www.onlinegdb.com/):** será utilizado para resolver os exercícios da disciplina. A escolha se deve à simplicidade de uso e à possibilidade de programar e executar os códigos diretamente no navegador.
+- **[Classroom da disciplina no OnlineGDB](https://onlinegdb.com/classroom/invite/5HC5YOtLx):** será utilizado para disponibilizar os exercícios aos alunos.
 - **GitHub:** será utilizado para disponibilizar materiais, exemplos e códigos desenvolvidos ao longo da disciplina.
 - **[GitHub Codespaces](https://github.com/features/codespaces):** poderá ser utilizado pelos alunos como ambiente de apoio ao desenvolvimento, com o VS Code online integrado ao repositório.
 
