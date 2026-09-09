@@ -7,6 +7,16 @@ Repositório de tutoriais, exemplos, atividades práticas e exercícios da disci
 **Professor:** Prof. Dr. Bruno Queiroz Pinto
 **Período:** 2026/2
 
+## Documentos
+
+- Os materiais das aulas serão adicionados nesta seção ao longo da disciplina.
+
+## Atividades
+
+- [Tutorial 01 - Da leitura à especificação técnica](atividades/tutorial-01-leitura-e-abstracao.md)
+- [Tutorial 01 - Problemas para abstração](atividades/tutorial-01-problemas.md)
+- [Tutorial 01 - Soluções dos problemas](atividades/tutorial-01-solucoes.md)
+
 ### Objetivos
 
 - Desenvolver a capacidade de compreender e modelar problemas computacionais.
@@ -35,13 +45,6 @@ Repositório de tutoriais, exemplos, atividades práticas e exercícios da disci
 - **Live coding:** construção de soluções passo a passo em sala.
 - **Abstração guiada:** transformação de um problema contextualizado em um enunciado técnico.
 - **Mão na massa:** resolução e implementação.
-- **Discussão de soluções:** comparação entre estratégias, complexidade e legibilidade.
-
-## Ferramentas
-
-- **[OnlineGDB](https://www.onlinegdb.com/):** será utilizado para resolver os exercícios da disciplina. A escolha se deve à simplicidade de uso e à possibilidade de programar e executar os códigos diretamente no navegador.
-- **GitHub:** será utilizado para disponibilizar materiais, exemplos e códigos desenvolvidos ao longo da disciplina.
-- **[GitHub Codespaces](https://github.com/features/codespaces):** poderá ser utilizado pelos alunos como ambiente de apoio ao desenvolvimento, com o VS Code online integrado ao repositório.
 
 ## Fluxo de resolução
 
@@ -54,6 +57,28 @@ Cada exercício será trabalhado seguindo um fluxo de etapas:
 5. Implementar o algoritmo em código.
 6. Revisar a solução e registrar os aprendizados.
 
+## Ferramentas
+
+- **[OnlineGDB](https://www.onlinegdb.com/):** será utilizado para resolver os exercícios da disciplina. A escolha se deve à simplicidade de uso e à possibilidade de programar e executar os códigos diretamente no navegador.
+- **GitHub:** será utilizado para disponibilizar materiais, exemplos e códigos desenvolvidos ao longo da disciplina.
+- **[GitHub Codespaces](https://github.com/features/codespaces):** poderá ser utilizado pelos alunos como ambiente de apoio ao desenvolvimento, com o VS Code online integrado ao repositório.
+
+## Google Classroom
+
+O [Google Classroom](https://classroom.google.com/) será utilizado para:
+
+- enviar mensagens e comunicados da disciplina;
+- publicar atividades e orientações;
+- receber as atividades realizadas pelos alunos;
+- divulgar o retorno e as notas das atividades.
+
+**Chave de acesso à turma:** `ymj5o3gh`
+
+## Contatos
+
+- **GitHub:** [brunoqp78/ucp2026---Da-Abstra-o-Implementa-o-Criando-Algoritmos](https://github.com/brunoqp78/ucp2026---Da-Abstra-o-Implementa-o-Criando-Algoritmos)
+- **E-mail:** [bruno.queiroz@iftm.edu.br](mailto:bruno.queiroz@iftm.edu.br)
+
 ## Bibliografia e materiais
 
 ### Básica
@@ -65,29 +90,3 @@ Cada exercício será trabalhado seguindo um fluxo de etapas:
 
 - Sociedade Brasileira de Computação. [Olimpíada Brasileira de Informática](https://olimpiada.ic.unicamp.br/).
 - HALIM, S.; HALIM, F. *Competitive Programming*.
-
-## Contatos
-
-- **GitHub:** [brunoqp78/ucp2026---Da-Abstra-o-Implementa-o-Criando-Algoritmos](https://github.com/brunoqp78/ucp2026---Da-Abstra-o-Implementa-o-Criando-Algoritmos)
-- **E-mail:** [bruno.queiroz@iftm.edu.br](mailto:bruno.queiroz@iftm.edu.br)
-
-## Documentos
-
-- Os materiais das aulas serão adicionados nesta seção ao longo da disciplina.
-
-## Atividades
-
-- [Tutorial 01 - Da leitura à especificação técnica](atividades/tutorial-01-leitura-e-abstracao.md)
-- [Tutorial 01 - Problemas para abstração](atividades/tutorial-01-problemas.md)
-- [Tutorial 01 - Soluções dos problemas](atividades/tutorial-01-solucoes.md)
-
-## Organização do repositório
-
-Este repositório será preenchido ao longo da disciplina com:
-
-- tutoriais de abstração, algoritmos e programação;
-- exemplos construídos em aula;
-- exercícios da OBI e problemas relacionados;
-- enunciados técnicos produzidos a partir dos problemas;
-- algoritmos e implementações das soluções;
-- atividades práticas e registros dos aprendizados.
