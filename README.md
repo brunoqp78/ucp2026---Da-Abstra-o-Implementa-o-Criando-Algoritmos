@@ -9,11 +9,10 @@ Repositório de tutoriais, exemplos, atividades práticas e exercícios da disci
 
 ## Documentos
 
-- Os materiais das aulas serão adicionados nesta seção ao longo da disciplina.
+- [Tutorial 01 - Da leitura à especificação técnica](atividades/tutorial-01-leitura-e-abstracao.md)
 
 ## Atividades
 
-- [Tutorial 01 - Da leitura à especificação técnica](atividades/tutorial-01-leitura-e-abstracao.md)
 - [Tutorial 01 - Problemas para abstração](atividades/tutorial-01-problemas.md)
 - [Tutorial 01 - Soluções dos problemas](atividades/tutorial-01-solucoes.md)
 
