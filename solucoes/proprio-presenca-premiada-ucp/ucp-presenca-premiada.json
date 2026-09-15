@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "assignment": {
+    "title": "UCP - Presença Premiada",
+    "content": "<h1>Ação Motivacional das UCPs: Presença Premiada</h1><p>Com a chegada do terceiro trimestre no IFTM, as coordenações dos cursos técnicos integrados em Desenvolvimento de Sistemas e Programação de Jogos Digitais perceberam uma queda na frequência dos estudantes nas Unidades Curriculares de Prática (UCPs). Preocupada com o engajamento das turmas, a professora Crícia idealizou uma campanha de incentivo: a ação de engajamento pedagógico <strong>\"Presença Premiada\"</strong>.</p><p>Nessa ação, os alunos que demonstrarem assiduidade nas aulas práticas vespertinas concorrem a vouchers para a cantina do campus. Para organizar a distribuição dos vales de forma automatizada e justa, o professor Bruno foi convidado a desenvolver o sistema de emissão de bilhetes do evento.</p><p>A rotina é composta por dois blocos sequenciais: <strong>UCPI</strong> (primeiro horário) e <strong>UCPII</strong> (segundo horário). Ao término de cada aula, o docente responsável registra a frequência de cada estudante no sistema, utilizando o valor <code>1</code> para indicar presença ou o valor <code>0</code> para ausência.</p><p>Ao passar pelo terminal ao final do dia, o sistema consulta os dois registros e imprime automaticamente o bilhete correspondente:</p><ul><li><strong>Bilhete A</strong> (<em>\"Parabéns! Presença total: você ganhou uma coxinha na cantina!\"</em>): emitido exclusivamente para o aluno que participou ativamente das duas aulas (<code>UCPI = 1</code> e <code>UCPII = 1</code>).</li><li><strong>Bilhete B</strong> (<em>\"Não foi dessa vez! Você esteve na primeira aula, mas faltou na segunda.\"</em>): emitido quando o aluno compareceu à primeira aula, porém se ausentou na segunda (<code>UCPI = 1</code> e <code>UCPII = 0</code>).</li><li><strong>Bilhete C</strong> (<em>\"Não foi dessa vez! Você faltou logo na primeira aula.\"</em>): emitido para qualquer aluno que não compareceu à primeira aula (<code>UCPI = 0</code>), independentemente de ter comparecido ou não à segunda.</li></ul><h2>Entrada:</h2><p>A entrada contém dois números inteiros: <code>UCPI</code> e <code>UCPII</code>, representando respectivamente a presença na primeira e na segunda UCP (<code>1</code> para presente e <code>0</code> para ausente).</p><h2>Saída:</h2><p>Imprima uma única linha contendo uma letra maiúscula correspondente ao bilhete que o aluno receberá (<code>A</code>, <code>B</code> ou <code>C</code>).</p><h2>Restrições:</h2><ul><li><code>UCPI</code> é 0 ou 1;</li><li><code>UCPII</code> é 0 ou 1.</li></ul><h2>Exemplos:</h2><table border=\"1\" cellpadding=\"4\" cellspacing=\"0\"><thead><tr><th>Entrada</th><th>Saída</th></tr></thead><tbody><tr><td>1 0</td><td>B</td></tr><tr><td>0 0</td><td>C</td></tr><tr><td>0 1</td><td>C</td></tr><tr><td>1 1</td><td>A</td></tr></tbody></table>",
+    "language": "java",
+    "code_template": "[{\"name\":\"Main.java\",\"content\":\"import java.util.Scanner; public class Main { public static void main(String[] args) { Scanner scanner = new Scanner(System.in); } }\",\"readonly_ranges\":[]}]",
+    "modal_solution": "",
+    "eval_method": "auto",
+    "enable_grade": 1,
+    "enable_late_submission": 0,
+    "enable_auto_mark_complete": 1,
+    "editor_copy_paste": 0,
+    "editor_file_upload": 1,
+    "autolock": 0,
+    "testcase_visible": 1,
+    "code_template_readonly_ranges": null,
+    "testcases": [
+      {
+        "input": "1 0",
+        "output": "B",
+        "name": "UC01",
+        "match_type": "F",
+        "grade_point": 1,
+        "visibility": 1
+      },
+      {
+        "input": "0 0",
+        "output": "C",
+        "name": "UC02",
+        "match_type": "F",
+        "grade_point": 1,
+        "visibility": 1
+      },
+      {
+        "input": "0 1",
+        "output": "C",
+        "name": "UC03",
+        "match_type": "F",
+        "grade_point": 1,
+        "visibility": 1
+      },
+      {
+        "input": "1 1",
+        "output": "A",
+        "name": "UC04",
+        "match_type": "F",
+        "grade_point": 1,
+        "visibility": 1
+      }
+    ],
+    "seb_enabled": 0
+  }
+}

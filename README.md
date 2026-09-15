@@ -10,6 +10,7 @@ Repositório de tutoriais, exemplos, atividades práticas e exercícios da disci
 ## Documentos
 
 - [Tutorial 01 - Da leitura à especificação técnica](atividades/tutorial-01-leitura-e-abstracao.md)
+- [Problemas e soluções](problemas.md)
 
 ## Atividades
 
