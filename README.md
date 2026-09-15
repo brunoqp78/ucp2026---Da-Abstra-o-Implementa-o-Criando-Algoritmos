@@ -11,6 +11,7 @@ Repositório de tutoriais, exemplos, atividades práticas e exercícios da disci
 
 - [Tutorial 01 - Da leitura à especificação técnica](atividades/tutorial-01-leitura-e-abstracao.md)
 - [Problemas e soluções](problemas.md)
+- [Descrição detalhada dos problemas](problemas-detalhados.md)
 
 ## Atividades
 
@@ -60,7 +61,8 @@ Cada exercício será trabalhado seguindo um fluxo de etapas:
 ## Ferramentas
 
 - **[OnlineGDB](https://www.onlinegdb.com/):** será utilizado para resolver os exercícios da disciplina. A escolha se deve à simplicidade de uso e à possibilidade de programar e executar os códigos diretamente no navegador.
-- **[Classroom da disciplina no OnlineGDB](https://onlinegdb.com/classroom/invite/5HC5YOtLx):** será utilizado para disponibilizar os exercícios aos alunos.
+- **[Classroom da disciplina no OnlineGDB - Java](https://onlinegdb.com/classroom/invite/5HC5YOtLx):** será utilizado para disponibilizar a lista de exercícios em Java.
+- **[Classroom da disciplina no OnlineGDB - C/C++](https://onlinegdb.com/classroom/invite/MaUcXzuI5):** será utilizado para disponibilizar a lista de exercícios em C++. A mesma lista também poderá ser utilizada por alunos que programam em C, quando o código for compatível com essa linguagem.
 - **GitHub:** será utilizado para disponibilizar materiais, exemplos e códigos desenvolvidos ao longo da disciplina.
 - **[GitHub Codespaces](https://github.com/features/codespaces):** poderá ser utilizado pelos alunos como ambiente de apoio ao desenvolvimento, com o VS Code online integrado ao repositório.
 

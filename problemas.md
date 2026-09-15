@@ -1,56 +1,22 @@
 # Problemas
 
-Este arquivo reúne os problemas disponibilizados no Classroom do [OnlineGDB](https://onlinegdb.com/classroom/invite/5HC5YOtLx) e os relaciona às soluções desenvolvidas no repositório.
+Índice dos problemas trabalhados na disciplina. Consulte as [descrições detalhadas](problemas-detalhados.md) para conhecer a origem, o tema e a proposta de cada exercício.
 
-Cada problema será trabalhado seguindo a estratégia da disciplina:
-
-1. compreender o contexto e identificar entradas, processamento, saída e restrições;
-2. escrever o enunciado técnico sem o contexto original;
-3. criar o pseudocódigo;
-4. implementar a solução;
-5. conferir a solução com exemplos e casos de teste.
-
-## Como consultar uma solução
-
-A solução de cada problema será um arquivo `.java`. No início do arquivo haverá um comentário com os itens obrigatórios:
-
-- referência do problema;
-- enunciado técnico;
-- pseudocódigo;
-
-A abstração do contexto e as observações sobre a implementação são opcionais e podem ser incluídas como apoio ao aprendizado.
-
-Depois do comentário estará o código Java correspondente à solução.
+Os enunciados estão disponíveis nos Classrooms do [OnlineGDB para Java](https://onlinegdb.com/classroom/invite/5HC5YOtLx) e do [OnlineGDB para C/C++](https://onlinegdb.com/classroom/invite/MaUcXzuI5). A lista em C++ também pode ser usada para soluções em C quando o código for compatível com essa linguagem.
 
 ## Problemas
 
-### OBI 2025 - Relógio Digital
+- [OBI 2025 - Relógio Digital](problemas-detalhados.md#obi2025-relogio-digital) - [solução Java](solucoes/obi2025-relogio-digital/Main.java)
+- [NEPS Academy - Flíper](problemas-detalhados.md#neps-fliper) - [solução Java](solucoes/neps-fliper/Main.java)
+- [UCP - Presença Premiada](problemas-detalhados.md#ucp-presenca-premiada) - [solução Java](solucoes/proprio-presenca-premiada-ucp/Main.java)
 
-- **Origem:** OBI 2025, Fase 1, Modalidade Iniciação, Nível Júnior, Questão 4.
-- **Tema:** aritmética modular e passagem de tempo.
-- **Enunciado resumido:** dada uma hora inicial e uma quantidade de horas decorridas, determinar a hora mostrada por um relógio de 24 horas.
-- **Solução:** [Main.java](solucoes/obi2025-relogio-digital/Main.java)
-- **Exercício no OnlineGDB:** disponível no Classroom da disciplina.
-- **Referência:** [OBI 2025 - Fase 1 - Modalidade Iniciação](https://olimpiada.ic.unicamp.br/passadas/OBI2025/fase1/iniciacao/)
+## Estratégia
 
-### NEPS Academy - Flíper
+Para cada problema:
 
-- **Origem:** [NEPS Academy - exercício 87](https://neps.academy/br/exercise/87).
-- **Tema:** estruturas condicionais e tomada de decisão.
-- **Enunciado resumido:** dadas as posições de duas portinhas, determinar por qual caminho a bolinha cairá: A, B ou C.
-- **Solução:** [Main.java](solucoes/neps-fliper/Main.java)
-- **Exercício no OnlineGDB:** disponível no Classroom da disciplina.
-- **Referência:** [NEPS Academy - Flíper](https://neps.academy/br/exercise/87)
+1. escrever o enunciado técnico sem o contexto original;
+2. criar o pseudocódigo;
+3. implementar a solução.
 
-### UCP - Presença Premiada
+O enunciado técnico e o pseudocódigo são registrados no comentário inicial do código-fonte. A abstração do contexto é opcional.
 
-- **Origem:** problema elaborado para a disciplina.
-- **Tema:** estruturas condicionais, tomada de decisão e identificação de soluções equivalentes.
-- **Enunciado resumido:** dadas as presenças de um aluno em duas UCPs, determinar qual bilhete deve ser emitido: A, B ou C.
-- **Solução:** [Main.java](solucoes/proprio-presenca-premiada-ucp/Main.java)
-- **Exercício no OnlineGDB:** disponível no Classroom da disciplina.
-- **Relação com Flíper:** depois da abstração, os dois problemas possuem o mesmo enunciado técnico, pseudocódigo e algoritmo.
-
-## Próximos problemas
-
-Novos problemas serão adicionados conforme forem disponibilizados no Classroom do OnlineGDB. Para cada inclusão, registre o problema nesta lista e crie sua solução Java na pasta `solucoes/`.
