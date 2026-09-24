@@ -164,6 +164,8 @@ A conferência não serve apenas para validar o código. Ela também ajuda a des
 
 Escolha um problema curto de programação e preencha o roteiro abaixo antes de escrever qualquer código.
 
+Para um roteiro mais detalhado, consulte o [passo a passo para problemas sequenciais e condicionais](passo-a-passo-sequencial-condicional.md). Ele apresenta como reconhecer essas estruturas, retirar o contexto, escrever o enunciado técnico, registrar fórmulas e elaborar o pseudocódigo.
+
 Para escolher um problema, utilize a [lista de problemas do Tutorial 01](tutorial-01-problemas.md). Você também pode buscar outro exercício de programação que tenha tamanho e dificuldade semelhantes. As [soluções dos problemas propostos](tutorial-01-solucoes.md) devem ser consultadas depois da sua própria análise.
 
 ### Roteiro de leitura

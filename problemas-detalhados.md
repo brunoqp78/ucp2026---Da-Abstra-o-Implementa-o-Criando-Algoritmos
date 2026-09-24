@@ -31,5 +31,4 @@ Os enunciados dos exercícios são os mesmos nas duas listas. O que muda é a li
 - **Tema:** estruturas condicionais, tomada de decisão e identificação de soluções equivalentes.
 - **Descrição:** dadas as presenças de um aluno em duas UCPs, determine qual bilhete deve ser emitido: A, B ou C.
 - **Solução disponível:** [Main.java](solucoes/proprio-presenca-premiada-ucp/Main.java)
-- **JSON do exercício:** [ucp-presenca-premiada.json](solucoes/proprio-presenca-premiada-ucp/ucp-presenca-premiada.json)
 - **Relação com Flíper:** depois da abstração, os dois problemas possuem o mesmo enunciado técnico, pseudocódigo e algoritmo.
